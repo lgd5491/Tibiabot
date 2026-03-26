@@ -1,0 +1,4 @@
+fbchat
+requests
+beautifulsoup4
+flask
