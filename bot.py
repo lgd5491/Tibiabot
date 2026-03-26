@@ -12,7 +12,7 @@ from fbchat.models import *
 # ================= KONFIGURACJA FB (MUSISZ UZUPEŁNIĆ) =================
 # 1. Wpisz ciasteczka z fejk konta:
 C_USER = "61577436214659"
-XS = "17%3AUFJYxNsG8KOTLQ%3A2%3A1774541320%3A-1%3A-1"    
+XS = "2%3A5rwtC_VqpV7FEg%3A2%3A1774543324%3A-1%3A-1%3A%3AAcwh8z4E7wpWJdW Ouf3Q39RuPxMu7ucbDg-lGtzrg"    
 
 # 2. Wpisz ID docelowe (na start wpisz swoje własne ID z FB, żeby bot pisał do Ciebie na priv)
 # Swoje ID wyciągniesz np. ze strony findmyfbid.in
